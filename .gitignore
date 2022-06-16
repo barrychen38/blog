@@ -1,0 +1,6 @@
+# jekyll compile files
+_site/
+.jekyll-metadata
+
+# sass cache folder
+.sass-cache/
